@@ -1,2 +1,3 @@
 # xonotic-config.pk3dir
-My Xonotic config redux
+
+Stripping down the old ninjapack and updating it with all my Xonotic stuff.

@@ -2,7 +2,9 @@
 
 This repository contains a basic framework and some more detailed binds than the Xonotic defaults.
 
-These are loosely visualized at http://z.github.io/kbx
+![bind preview](config/binds-preview.png)
+
+These are loosely visualized/editable at https://z.github.io/kbx *in progress*
 
 ## Usage
 
